@@ -8,7 +8,7 @@ def my_each(array)
     end
 
     array
-  else
-    "size is greater than 5!"
+  # else
+  #   "size is greater than 5!"
   end
 end
