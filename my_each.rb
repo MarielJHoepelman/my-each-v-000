@@ -6,9 +6,6 @@ def my_each(array)
       yield(array[i])
       i = i + 1
     end
-
     array
-  # else
-  #   "size is greater than 5!"
   end
 end
