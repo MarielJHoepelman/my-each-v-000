@@ -3,8 +3,9 @@ def my_each(array)
     i = 5
   while i < array.size
     i = i + 1
-  end   
+  end
    array
- else 
+  else
    puts "size is greater than 5!"
+  end
 end
