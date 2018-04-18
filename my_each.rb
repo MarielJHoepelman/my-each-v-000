@@ -6,6 +6,6 @@ def my_each(array)
   end
    array
   else
-   puts "size is greater than 5!"
+   "size is greater than 5!"
   end
 end
